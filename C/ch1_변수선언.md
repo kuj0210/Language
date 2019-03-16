@@ -15,3 +15,5 @@ float PI = 3.14;<br/>
 3) float : 실수형 값 저장  , 4바이트 , 작은 실수 값 사용<br/>
 4) double: 실수형 값 저장  , 8바이트 <br/>
 5) char  : 문자형 값 저장  , 1바이트 <br/>
+
+<image src = https://github.com/kuj0210/Language/blob/master/C/img/1-1.png/>
