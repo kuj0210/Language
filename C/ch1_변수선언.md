@@ -6,8 +6,18 @@
 ## 변수 선언 및 값을 넣는 방법
 선언 기본형식 : TYPE name ;<br/>
 ### 예시:<br/>
-int age = 50;<br/>
-float PI = 3.14;<br/>
+```C
+#include<stdio.h>
+
+int main(void) {
+    int age = 50;
+    float PI = 3.14;
+	printf("C언어 수업시작\n");
+
+	return 0;
+}
+```
+
     
 ## 변수 TYPE  종류와 용도, 메모리 크기   
 1) int   : 정수형 값 저장  , 4바이트<br/>
