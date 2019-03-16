@@ -26,3 +26,4 @@ int main(void) {
 5) char  : 문자형 값 저장  , 1바이트 <br/>
 
 <image src = https://github.com/kuj0210/Language/blob/master/C/img/1-1.png/>
+### 이미지로 들어간 소스코드 예시는 반드시 직업 타이핑 해보시길 바랍니다.
