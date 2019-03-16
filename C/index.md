@@ -5,14 +5,14 @@
  <br/>
  <image src =https://github.com/kuj0210/Language/blob/master/C/img/1-0.png/>
  앞으로 예제나 프로그램을 작성하게 될 기초 틀입니다.
- '''
+ '''"
  #include<stdio.h>
 int main(void) {
 	printf("C언어 수업시작\n");
 
 	return 0;
 }
- '''
+"'''
  # 목차
  ## ch1변수선언
  변수선언이 필요한 이유<br/>
