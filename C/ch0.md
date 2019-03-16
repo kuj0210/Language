@@ -13,6 +13,7 @@ int main(void) {
 	return 0;
 }
 ```
+main안의 printf처럼 main(void){}로 구분된 곳에 앞으로 프로그래밍을 해나갈 예정입니다 . 
  # 목차
  ## ch1변수선언
  변수선언이 필요한 이유<br/>
