@@ -12,7 +12,6 @@
 int main(void) {
     int age = 50;
     float PI = 3.14;
-	printf("C언어 수업시작\n");
 
 	return 0;
 }
