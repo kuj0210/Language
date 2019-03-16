@@ -5,9 +5,9 @@
 방금 값을 입력했어도 컴퓨터는 해당내용을 알수없게 됩니다.
 
 ## 변수 선언 및 값을 넣는 방법
-선언 기본형식 : TYPE name ;
-  예시:
-   int age = 50;
-   float PI = 3.14;
+선언 기본형식 : TYPE name ;<br/>
+  <TAB/>예시:<br/>
+   <TAB/>int age = 50;<br/>
+   <TAB/>float PI = 3.14;<br/>
     
     
